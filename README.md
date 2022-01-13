@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### My name is Michael Ogunyemi. I am a Frontend Developer(for now at least). 
 ### About me.
-I am also a Vet Doctor and a writer. You can reach me with my email here michaelogunyemi3@gmail.com. I completed my college education in 2019 but started this year. I had always wanted to do that and I'm glad I started. I am also a public health enthusiast, I am interested in making the world healthier. I love football and I am a diehard chelsea fan. COYB. I have always found myself in leadership roles as I enjoy service. I recently served as team-lead in an internship I partook in.
+I am also a Vet Doctor and a writer. You can reach me with my email here michaelogunyemi3@gmail.com. I completed my college education in 2019 but started coding in 2021. I had always wanted to do that and I'm glad I started. I am also a public health enthusiast, I am interested in making the world healthier. I love football and I am a diehard chelsea fan. COYB. I have always found myself in leadership roles as I enjoy service. I recently served as team-lead in an internship I partook in.
 
 ### Education 👨🏽‍🎓
 - I learn everyday.
